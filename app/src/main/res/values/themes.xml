@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.MyApp.Splash" parent="Theme.SplashScreen">
+        <!-- Set splash screen background color -->
+        <item name="windowSplashScreenBackground">@color/white</item>
+
+        <!-- Set the splash screen icon -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
+
+        <!-- Center the splash screen icon -->
+        <item name="windowSplashScreenIconBackgroundColor">@drawable/logo</item>
+    </style>
+</resources>
